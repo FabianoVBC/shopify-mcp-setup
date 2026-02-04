@@ -3,9 +3,9 @@ const url = require('url');
 const https = require('https');
 
 // Configurações do app
-const CLIENT_ID = '39fb2be3b079dc6204f1acb4107758e2';
+const CLIENT_ID = 'YOUR_CLIENT_ID_HERE';
 const CLIENT_SECRET = 'YOUR_CLIENT_SECRET_HERE';
-const SHOP = 'bjqvz0-0b.myshopify.com';
+const SHOP = 'your-store.myshopify.com';
 const REDIRECT_URI = 'http://localhost:3000/callback';
 const SCOPES = 'read_products,write_products,read_orders,read_customers,write_customers,read_discounts,write_discounts,read_draft_orders,write_draft_orders';
 

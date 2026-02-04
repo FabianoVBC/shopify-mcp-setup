@@ -152,7 +152,7 @@ This part requires generating an OAuth access token. Follow these steps carefull
 
 1. Go to **Settings** tab in your app
 2. Copy these values:
-   - **Client ID**: `39fb2be3b079dc6204f1acb4107758e2` (example)
+   - **Client ID**: `YOUR_CLIENT_ID_HERE` (example)
    - **Client secret**: `shpss_YOUR_CLIENT_SECRET_HERE` (example)
 
 ### Step 4: Install App on Your Store
